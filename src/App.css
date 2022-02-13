@@ -1,5 +1,13 @@
+body {
+  font-family: "Poppins", sans-serif;
+  color: #162440;
+  text-align: center;
+  margin: 30px 0px;
+}
+
 .App-footer {
-  font-size: 13px;
+  font-size: 14px;
+  color: #ff7456;
   margin: 30px 0;
   text-align: center;
 }
