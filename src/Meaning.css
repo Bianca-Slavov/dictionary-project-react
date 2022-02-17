@@ -9,5 +9,13 @@
   font-size: 14px;
   opacity: 0.7;
   font-style: italic;
-  margin-top: 10px;
+  margin-top: 8px;
+}
+
+.Meaning .definition:first-letter {
+  text-transform: capitalize;
+}
+
+.Meaning .example:first-letter {
+  text-transform: capitalize;
 }
